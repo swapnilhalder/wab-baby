@@ -1,0 +1,126 @@
+.first-sec{
+    height: 500px;
+    width: 1350px;
+    background-image: url(../image/img1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.first-sec h1{
+    padding-top: 78px;
+    padding-left: 79px;
+    color: white;
+
+}
+.first-sec p{
+    padding-top: 10px;
+    padding-left: 83px;
+    color: white;
+}
+.first-sec a{
+    padding-top: 73px;
+    padding-left: 86px;
+    color: white;
+}
+
+.second-sec h3{
+    padding: 40px 60px;
+}
+
+.second-sec p{
+    padding:0px 60px;
+}
+
+.third-sec{
+    height: 602px;x;
+    width: 1336px;
+    background-color: antiquewhite;
+}
+
+.third-sec h1{
+    font-size: 25px;
+    margin-left: 200px;
+    padding-top: 90px;
+}
+
+.third-sec img{
+    height: 346px;
+    width: 249px;
+    margin-left: 197px;
+    margin-top: 46px;
+}
+.progress{
+    display: flex;
+    float: right;
+    padding-top: 0px;
+
+}
+.containar-grid{
+    display: grid;
+    grid-template-columns:auto auto;
+    grid-column-gap: 20px;
+}
+
+..grid-item{
+    font-size: 10px;
+    text-align: center;
+}
+
+.fifth-sec{
+    height:550px;
+    width: auto;
+    position: relative;
+    padding: 50px 50px 50px 50px;
+}
+.fifth-sec h1{
+    position: absolute;
+}
+#recearch{
+    position: absolute;
+    padding-top: 88px;
+}
+.fifth-sec p{
+    position: absolute;
+    padding-top: 155px;
+}
+.portfolio-img{
+    display: flex;
+float: right;
+
+}
+.container-grid-img{
+display: grid;
+grid-template-columns: auto auto;
+grid-column-gap: 20px ;
+}
+.grid-item-img{
+height: 170px;
+}
+
+#portfolio{
+    padding-top: 89px;
+    margin-bottom: -218px;
+}
+
+img#Portfolio {
+    padding-top: 88px;
+}
+
+.sixth-sec{
+    height: 350px;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0px;
+}
+.card{
+width: 220px;
+height: 136px;
+font-size: 15px;
+background-color: #f6f6f6;
+border-radius: 10px;
+}
+.card h2, h4, h3{
+    padding: 0px 5px;
+    font-size: 17px;
+}
